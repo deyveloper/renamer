@@ -1,0 +1,18 @@
+{
+  "name": "renamer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^14.11.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  },
+  "scripts": {
+    "cmp": "tsc && node src/index.js"
+  },
+  "keywords": [],
+  "author": "David Sarksyan",
+  "license": "ISC"
+}
